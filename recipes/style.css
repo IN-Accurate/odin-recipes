@@ -17,4 +17,20 @@ h2{
 
 p{
     background-color: teal;
+    font-size : 28px;
+}
+
+ul li{
+    background-color: blanchedalmond;
+    color : orange;
+    font-size : 26px;
+    font-weight : bold;
+}
+
+ol li{
+    background-color: blanchedalmond;
+    color : orange;
+    font-size : 26px;
+    font-weight : bold;
+
 }
