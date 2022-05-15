@@ -2,3 +2,16 @@ img{
      width : 500px;
      height : auto;
 }
+
+h1{
+    font-family :Verdana , Tahoma, sans-serif;
+    font-weight: bold;
+    font-size : 50px;
+}
+
+h2{
+    background-color: lightgrey;
+    font-weight: 600;
+    font-style: oblique;
+}
+
